@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eddywanje
 - 👀 I’m interested in html,php,react,swift,Javascript 
 - 🌱 I’m currently learning html,css,php
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on html and php
+- 📫 How to reach me @eddywanjeitl6023mg1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
